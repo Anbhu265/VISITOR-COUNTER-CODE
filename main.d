@@ -1,0 +1,14 @@
+main.o: MAIN.C
+main.o: C:\Keil\ARM\Inc\Philips\lpc21xx.h
+main.o: C:\Keil\ARM\RV31\Inc\string.h
+main.o: vc_i2c_config.c
+main.o: vc_i2c_header.h
+main.o: vc_i2c_typedef.h
+main.o: vc_i2c_typedef.h
+main.o: vc_i2c_macrobit.h
+main.o: vc_eeprom.c
+main.o: vc_eeprom_header.h
+main.o: delay.h
+main.o: vc_i2c_typedef.h
+main.o: vc_i2c_header.h
+main.o: vc_i2c_typedef.h
